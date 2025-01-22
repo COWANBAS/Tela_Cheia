@@ -40,5 +40,4 @@ Permite que os usuários tenham mais controle sobre a aparência e o comportamen
 
 *Whatsapp FullScreen*
 
-![image](https://github.com/user-attachments/assets/d86d291c-2565-40bc-ae37-edd1c2692503)
-
+![image](https://github.com/user-attachments/assets/e4a2da68-ac91-46a2-899a-9dd825a2f9c7)
