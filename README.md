@@ -35,8 +35,8 @@ O script pode ser facilmente adicionado e gerenciado usando extensões populares
 *Flexibilidade e Controle*
 
 Permite que os usuários tenham mais controle sobre a aparência e o comportamento dos elementos na página, ajustando-os conforme suas preferências e necessidades específicas.
-
-#EXEMPLO
+ 
+# *EXEMPLO*
 
 *Whatsapp FullScreen*
 
