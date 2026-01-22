@@ -2,7 +2,7 @@
 // @name             Tela Cheia
 // @description      Deixa o navegador em tela cheia
 // @namespace        CowanSCREEN
-// @license          CowBas
+// @license          GPL-3.0
 // @version          1.0
 // @author           Cowanbas
 // @match            *://*/*
@@ -34,4 +34,5 @@
     `;
     // Adiciona o elemento <style> ao <head> do documento, aplicando os estilos definidos
     document.head.appendChild(style);
+
 })();
