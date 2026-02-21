@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name             Tela Cheia
-// @description      Deixa o navegador em tela cheia
-// @namespace        CowanSCREEN
+// @description      Ajusta elementos específicos na página para ocupar toda a tela.
+// @namespace        Telacheia
 // @license          GPL-3.0
 // @version          1.0
 // @author           Cowanbas
@@ -36,3 +36,4 @@
     document.head.appendChild(style);
 
 })();
+
