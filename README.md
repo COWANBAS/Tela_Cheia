@@ -8,7 +8,7 @@ Define o conteúdo CSS que será aplicado aos elementos específicos da página.
 
 Adiciona o elemento <style> ao <head> do documento, aplicando os estilos definidos aos elementos que correspondem aos seletores CSS.
 
-![image](https://github.com/user-attachments/assets/4b33f854-4aa9-4f8c-a7cb-a2216a1adbc6)
+<img width="300" height="41" alt="image" src="https://github.com/user-attachments/assets/cf76fc5f-fa24-4c5d-9d29-8b101203d79b" />
 
 *VANTAGEMS*
 
