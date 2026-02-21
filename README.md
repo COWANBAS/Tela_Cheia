@@ -2,7 +2,7 @@
 
 Cria um novo elemento <style> que será usado para inserir CSS no documento.
 
-![image](https://github.com/user-attachments/assets/e955e22e-a1cd-44b6-be23-2b9c84011226)
+<img width="372" height="265" alt="image" src="https://github.com/user-attachments/assets/819f56bd-930c-4ac6-a8b5-ad664ef339c3" />
 
 Define o conteúdo CSS que será aplicado aos elementos específicos da página. O uso de !important garante que esses estilos tenham prioridade sobre outros estilos existentes.
 
