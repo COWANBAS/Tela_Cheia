@@ -9,21 +9,3 @@ Define o conteúdo CSS que será aplicado aos elementos específicos da página.
 Adiciona o elemento <style> ao <head> do documento, aplicando os estilos definidos aos elementos que correspondem aos seletores CSS.
 
 <img width="300" height="41" alt="image" src="https://github.com/user-attachments/assets/cf76fc5f-fa24-4c5d-9d29-8b101203d79b" />
-
-*VANTAGEMS*
-
-*Melhor Experiência de Visualização*
-
-O script ajusta automaticamente certos elementos da página para ocupar toda a tela, proporcionando uma experiência de visualização mais imersiva e sem distrações.
-
-*Compatibilidade Universal*
-
-Como o script é configurado para rodar em qualquer URL (*://*/*), ele pode ser utilizado em qualquer site, garantindo que você tenha uma experiência de tela cheia em qualquer página da web.
-
-*Personalização de Elementos Específicos*
-
-O script aplica estilos personalizados a divs com tabindex="-1" e a classe two, permitindo que esses elementos sejam ajustados conforme necessário, como redimensionamento horizontal e controle de overflow.
-
-*Execução Antecipada*
-
-Configurado para rodar no início do carregamento do documento (document-start), o script garante que as alterações sejam aplicadas antes que a maioria do conteúdo da página seja carregada, evitando flashs de conteúdo sem estilo.
