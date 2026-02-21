@@ -27,11 +27,3 @@ O script aplica estilos personalizados a divs com tabindex="-1" e a classe two, 
 *Execução Antecipada*
 
 Configurado para rodar no início do carregamento do documento (document-start), o script garante que as alterações sejam aplicadas antes que a maioria do conteúdo da página seja carregada, evitando flashs de conteúdo sem estilo.
-
-*Facilidade de Implementação*
-
-O script pode ser facilmente adicionado e gerenciado usando extensões populares como Tampermonkey ou Greasemonkey, sem a necessidade de modificações complexas no código do site.
-
-*Flexibilidade e Controle*
-
-Permite que os usuários tenham mais controle sobre a aparência e o comportamento dos elementos na página, ajustando-os conforme suas preferências e necessidades específicas.
