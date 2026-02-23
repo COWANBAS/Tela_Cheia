@@ -23,7 +23,6 @@
             max-width: 100% !important;
             height: 100% !important;
         }
-        
         div[tabindex="-1"].two > ._aigw.x9f619 {
             flex: none !important;
             resize: horizontal !important;
@@ -36,4 +35,5 @@
     document.head.appendChild(style);
 
 })();
+
 
