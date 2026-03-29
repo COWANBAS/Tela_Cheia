@@ -1,4 +1,4 @@
-*FUNCIONALIDADE*
+# FUNCIONALIDADE
 
 Cria um novo elemento <style> que será usado para inserir CSS no documento.
 
