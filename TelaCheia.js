@@ -35,5 +35,3 @@
     document.head.appendChild(style);
 
 })();
-
-
